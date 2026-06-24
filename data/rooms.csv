@@ -1,0 +1,6 @@
+id,name,type,capacity
+R1,Auditorium A,Lecture,120
+R2,Room 201,Lecture,80
+R3,Seminar Hall,Lecture,60
+R4,Computing Lab 1,Lab,45
+R5,Electronics Lab,Lab,40

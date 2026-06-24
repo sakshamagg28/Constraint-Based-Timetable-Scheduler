@@ -1,0 +1,11 @@
+id,name,room_type,student_group_id,enrolled_students,weekly_lectures,weekly_labs,eligible_instructors
+CS101,Programming Fundamentals,Lecture,G1,38,2,1,I1|I2
+CS102,Data Structures,Lecture,G1,38,2,1,I2|I3
+CS201,Algorithms,Lecture,G2,42,2,1,I1|I3
+MA101,Discrete Mathematics,Lecture,G2,42,3,0,I4
+PH101,Engineering Physics,Lecture,G3,34,2,1,I5
+EE101,Digital Electronics,Lecture,G3,34,2,1,I3|I5
+HU101,Technical Communication,Lecture,G4,32,2,0,I2|I4
+DS301,Database Systems,Lecture,G4,32,2,1,I1|I3
+AI401,Artificial Intelligence,Lecture,G1,38,2,1,I3
+SE301,Software Engineering,Lecture,G2,42,2,0,I2
