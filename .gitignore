@@ -10,3 +10,4 @@ cmake-build-*/
 *.exe
 results/*.csv
 !results/.gitkeep
+.vscode/
